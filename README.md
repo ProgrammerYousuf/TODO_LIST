@@ -1,8 +1,41 @@
-# React + Vite
+###### Project Name
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# iTodo_List 
 
-Currently, two official plugins are available:
+###### Library
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# React Js
+
+###### Developed By
+
+# Programmer Yousuf
+
+###### Project All Imformation
+
+# iTodo_list details 
+
+###### For Setup React 
+
+# For Setuping React 
+
+Me Use A Build Tool Called Vite 
+
+###### For Bulid This App Use Language  
+
+# For Language
+
+For Langauge Me Use 6th Rank Language is Called JavaScript 
+
+###### Icons
+
+# For Icons 
+
+For Icons Me Use React Icons
+
+###### Css Framework 
+
+# For Css
+
+For Css Me Use A Framework Called Tailwind Css Or Normal Css basic code
+
+
