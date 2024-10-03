@@ -1,41 +1,50 @@
-###### Project Name
+# iTodo-list
 
-# iTodo_List 
+iTodo-list is a simple todo list app built with React and Tailwind CSS. It allows you to add, edit, delete, and mark todos as completed. The app also includes a feature to clear all todos at once.
 
-###### Library
+## Features
 
-# React Js
+- Add new todos
+- Edit existing todos
+- Delete todos
+- Mark todos as completed
 
-###### Developed By
+## Technologies Used
 
-# Programmer Yousuf
+- React
+- Tailwind CSS
+- React Toastify
+- React Icons
 
-###### Project All Imformation
+## Installation
 
-# iTodo_list details 
+1. Clone the repository:
 
-###### For Setup React 
+   ```
+   git clone https://github.com/your-username/iTodo-list.git
+   ```
 
-# For Setuping React 
+2. Install dependencies:
 
-Me Use A Build Tool Called Vite 
+   ```
+   cd iTodo-list
+   ```
 
-###### For Bulid This App Use Language  
+   npm install
 
-# For Language
+   ```
 
-For Langauge Me Use 6th Rank Language is Called JavaScript 
+   ```
 
-###### Icons
+3. Start the development server:
+   ```
+   npm start
+   ```
 
-# For Icons 
+## Usage
 
-For Icons Me Use React Icons
-
-###### Css Framework 
-
-# For Css
-
-For Css Me Use A Framework Called Tailwind Css Or Normal Css basic code
-
-
+1. Add a new todo by entering the task in the input field and clicking the "save" button.
+2. Edit a todo by clicking the edit button on the todo item.
+3. Delete a todo by clicking the delete button on the todo item.
+4. Mark a todo as completed by clicking the checkbox on the todo item.
+5. Clear all todos by clicking the "Clear All" button.
